@@ -16,9 +16,9 @@ This vector 2 gets fed in player movement and you are good to go.
 
 the lookaround script works in a similar manner, no joysticks. You use the right half of the keyboard as your "trackpad". Any delta detected therein is returned by the function.
 
-if you want to use it, attack movement to you player character.
-attach the touchmov script to your UI image object that will work as your "movement stick/buttons"
-attack lookaround script to your player character
+if you want to use it, attach movement.cs to your player character.
+attach the touchmov.cs script to your UI image object that will work as your "movement stick/buttons"
+attack lookaround.cs script to your player character
 
 
 struggling devs, you are welcome.
